@@ -1,0 +1,24 @@
+.profile_page_profile{
+    padding-top: 10rem;
+    background-color: #FFFFFF;
+}
+
+.profile_heading{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #16A34A;
+}
+
+.profile_page{
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 25px;
+}
+
+.profile_submit_button{
+    background-color: rgb(13, 14, 13) !important;
+}
+
+.profile_button{
+text-align: center;
+}

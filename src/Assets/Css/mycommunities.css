@@ -1,0 +1,112 @@
+/* My Community */
+
+.mycommunity_card_body_add_new {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+  
+}
+.commity-slider .slick-slide {
+  padding: 0px 0px 25px 10px!important;
+}
+.mycommunity_add_new_card {
+  height: 389px;
+  border-radius: 16px;
+  border: dotted #C4C4C4;
+}
+
+.mycommunity_card_add_icon {
+  color: #333647;
+  text-align: center;
+}
+
+.mycommunity_card_add_new_title {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: center;
+  text-decoration: underline;
+  color: #465bba;
+}
+
+.mycommunity_card_text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  margin-top: 12px;
+  color: #9883E5;
+  height: 60px;
+    overflow: hidden;
+}
+
+.mycommunity_card_title {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.mycommunity_card_img {
+  border-radius: 16px;
+}
+
+.mycommunity_card_card {
+  border-radius: 16px;
+  height: 389px;
+  border: none;
+  box-shadow: 0px 2px 10px rgb(167 167 167 / 30%);
+}
+.commity-slider.slicksslider .custom-arrow.slick-arrow.slick-prev {
+  position: absolute;
+  left: 32px;
+}
+.commity-slider.slicksslider .custom-arrow.slick-arrow.slick-next {
+  right: 60px!important;
+}
+.commity-slider.slicksslider button {
+  position: relative;
+  bottom: 30px;
+}
+.mycommunity_card_card.card img {
+  height: 248px;
+}
+.mycommunity .MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-lg-9.css-1bb61b6-MuiGrid-root {
+  padding-top: 0!important;
+}
+.mycommunity_heading {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  margin-left: 36px;
+  color: #16A34A;
+  margin-bottom: 0;
+}
+
+.mycommunity_heading_div {
+  background-color: #ffffff;
+  padding: 12px 0px 11px 0px;
+  border-radius: 12px;
+}
+
+.mycommunity {
+  background-color: #ebffeb !important;
+}
+
+/* My Community */
+
+/* Media Query */
+
+ @media (max-width: 320px){
+  .mycommunity_heading {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-left: 36px;
+}
+ }
+
+/* Media Query */
